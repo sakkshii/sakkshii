@@ -34,4 +34,4 @@ simulation project.
 
 ### 📫 Connect
 
-[LinkedIn]([LINKEDIN-URL]) · [EMAIL-ADDRESS]
+[LinkedIn]([LINKEDIN-URL]) · [EMAIL-ADDRESS]| sakshitadasare@gmail.com
